@@ -1,0 +1,41 @@
+[{
+    "crew_id": 123,
+    "car_mark": "Chevrolet",
+    "car_model": "Lacetti",
+    "car_color": "Blue",
+    "car_number": "36SU412",
+    "driver_name": "Adams",
+    "driver_phone": 7788,
+    "lat": 40.185623,
+    "lon": 44.521002
+}, {
+    "crew_id": 126,
+    "car_mark": "BMW",
+    "car_model": "535!",
+    "car_color": "Black",
+    "car_number": "20AU605",
+    "driver_name": "Chris",
+    "driver_phone": 8780,
+    "lat": 40.170616,
+    "lon": 44.513478
+}, {
+    "crew_id": 124,
+    "car_mark": "Hyundai",
+    "car_model": "Solaris",
+    "car_color": "White",
+    "car_number": "28AM612",
+    "driver_name": "Gary",
+    "driver_phone": 8899,
+    "lat": 40.184380,
+    "lon": 44.514634
+}, {
+    "crew_id": 125,
+    "car_mark": "Nissan",
+    "car_model": "Sunny",
+    "car_color": "Red",
+    "car_number": "16UU116",
+    "driver_name": "Gregory",
+    "driver_phone": 6725,
+    "lat": 40.178299,
+    "lon": 44.501554
+}]
